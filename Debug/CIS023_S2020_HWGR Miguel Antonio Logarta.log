@@ -1,0 +1,13 @@
+﻿  BubbleClass.cpp
+C:\Users\potatochipse\Desktop\CIS Stuff\023\Homework\CIS023_S2020_HWGR Miguel Antonio Logarta\BubbleClass.cpp(40,19): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\potatochipse\Desktop\CIS Stuff\023\Homework\CIS023_S2020_HWGR Miguel Antonio Logarta\BubbleClass.cpp(41,20): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\potatochipse\Desktop\CIS Stuff\023\Homework\CIS023_S2020_HWGR Miguel Antonio Logarta\BubbleClass.cpp(42,18): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\potatochipse\Desktop\CIS Stuff\023\Homework\CIS023_S2020_HWGR Miguel Antonio Logarta\BubbleClass.cpp(43,21): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\potatochipse\Desktop\CIS Stuff\023\Homework\CIS023_S2020_HWGR Miguel Antonio Logarta\BubbleClass.cpp(82,25): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\potatochipse\Desktop\CIS Stuff\023\Homework\CIS023_S2020_HWGR Miguel Antonio Logarta\BubbleClass.cpp(83,26): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\potatochipse\Desktop\CIS Stuff\023\Homework\CIS023_S2020_HWGR Miguel Antonio Logarta\BubbleClass.cpp(84,24): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\potatochipse\Desktop\CIS Stuff\023\Homework\CIS023_S2020_HWGR Miguel Antonio Logarta\BubbleClass.cpp(85,27): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  CIS023_S2020_HWGR Miguel Antonio Logarta.cpp
+  Generating Code...
+C:\Users\potatochipse\Desktop\CIS Stuff\023\Homework\CIS023_S2020_HWGR Miguel Antonio Logarta\BubbleClass.cpp(96,39): warning C4244: '-=': conversion from 'double' to 'LONG', possible loss of data
+  CIS023_S2020_HWGR Miguel Antonio Logarta.vcxproj -> C:\Users\potatochipse\Desktop\CIS Stuff\023\Homework\CIS023_S2020_HWGR Miguel Antonio Logarta\Debug\CIS023_S2020_HWGR Miguel Antonio Logarta.exe
